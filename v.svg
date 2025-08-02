@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="650px" height="590px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<text x="0" y="30" fill="#24292f">
+<tspan x="0" y="30"> Vinay@Khochare</tspan> -———————————————————————————————————————————-—-
+<tspan x="0" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value">Windows, Linux</tspan>
+<tspan x="0" y="70" class="cc">. </tspan><tspan class="key">Spawn</tspan>:<tspan class="cc"> .............................................. </tspan><tspan class="value" id="age_data">9 June 2001</tspan>
+<tspan x="0" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ..................................................... </tspan><tspan class="value">India</tspan>
+<tspan x="0" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">VLSI Front-End Design</tspan>
+<tspan x="0" y="150">- ToolKit</tspan> -———————————————————————————————————————————-—-
+<tspan x="0" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Verilog, System Verilog, Perl</tspan>
+<tspan x="0" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Framework</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">UVM</tspan>
+<tspan x="0" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">English, Hindi, Marathi</tspan>
+<tspan x="0" y="230" class="cc">. </tspan>
+<tspan x="0" y="250" class="cc">. </tspan><tspan class="key">Protocols</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">UART, SPI, I2C, LPC</tspan>
+<tspan x="0" y="270" class="cc">. </tspan><tspan class="key">Protocols</tspan>.<tspan class="key">HighSpeed</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">PCIe, Ethernet, AMBA, Avalon</tspan>
+<tspan x="0" y="300">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="0" y="320" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">vinay.khochare18@gmail.com</tspan>
+<tspan x="0" y="340" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">vinaykhochare</tspan>
+<tspan x="0" y="380">- Interest</tspan> -—————————————————————————————————————————-—-
+<!-- 🚀 Line (Exploration & Learning) -->
+<tspan x="0" y="400" class="cc">. </tspan><tspan class="key">🚀</tspan>:<tspan class="cc"></tspan>
+<tspan class="value">I'm actively exploring and learning about chip design</tspan>
+<tspan x="65" y="425" class="value">and verification.</tspan>
+
+<!-- 🧠 Line (Passion & Improvement) -->
+<tspan x="0" y="450" class="cc">. </tspan><tspan class="key">🧠</tspan>:<tspan class="cc"></tspan>
+<tspan class="value">Passionate about building high speed, low latency, scalable</tspan>
+<tspan x="65" y="475" class="value">hardware and continuously improving my understanding</tspan>
+<tspan x="65" y="500" class="value">of chip design.</tspan>
+
+<!-- 💻 Line (Openness & Curiosity) -->
+<tspan x="0" y="525" class="cc">. </tspan><tspan class="key">💻</tspan>:<tspan class="cc"></tspan>
+<tspan class="value">Open to learning, collaborating, and exploring the deeper</tspan>
+<tspan x="65" y="545" class="value">intricacies of the semiconductor world!</tspan>
+</text>
+</svg>
